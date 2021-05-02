@@ -11,7 +11,7 @@
 
 ### 풀이
 
-보통 재귀(top-down) / 반복문(bottom-up) 사용
+보통 재귀(top-down) / 반복문(bottom-up) 사용\
 **재귀(top-down)**
 
 ```c++
