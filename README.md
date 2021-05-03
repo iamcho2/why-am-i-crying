@@ -22,8 +22,11 @@
 ## 🗝 문제풀이
 
 ### BOJ
-[#2309 ](https://github.com/iamcho2/why-am-i-crying/blob/main/solutions/BOJ-2309/BOJ-2309.md)
+[#1182 ](https://github.com/iamcho2/why-am-i-crying/tree/main/solutions/BOJ-1182/BOJ-1182.md)
 [#1759 ](https://github.com/iamcho2/why-am-i-crying/blob/main/solutions/BOJ-1759/BOJ-1759.md)
+[#2309 ](https://github.com/iamcho2/why-am-i-crying/blob/main/solutions/BOJ-2309/BOJ-2309.md)
+[#7568 ](https://github.com/iamcho2/why-am-i-crying/blob/main/solutions/BOJ-7568/BOJ-7568.md)
+
 
 
 
