@@ -8,6 +8,8 @@
 
 ## 📓 정리
 
+[VSCode](https://github.com/iamcho2/why-am-i-crying/blob/main/contents/C%2B%2B/VSCode.md)
+
 ### SOPT 내 알고리즘 스터디 SOPTAC (C++)
 
 [C++ STL](https://github.com/iamcho2/why-am-i-crying/blob/main/contents/SOPTAC/C%2B%2BSTL.md)\
