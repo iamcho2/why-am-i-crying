@@ -20,7 +20,7 @@
 ## 🗝 문제풀이
 
 ### BOJ
-
+[#2309 ](https://github.com/iamcho2/why-am-i-crying/blob/main/solutions/BOJ-2309/BOJ-2309.md)
 
 
 
