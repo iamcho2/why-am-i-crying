@@ -8,6 +8,46 @@
 
 코드 쓰고
 
+### task.json 수정
+
+```json
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "shell",
+			"label": "C/C++: g++ build active file",
+			"command": "/usr/bin/g++",
+			"args": [
+				"-g",
+				"${file}",
+				"-o",
+				"${fileDirname}/${fileBasenameNoExtension}.exe"
+			],
+			"options": {
+				"cwd": "${workspaceFolder}"
+			},
+			"problemMatcher": [
+				"$gcc"
+			],
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			}
+		},
+		{
+			"type": "shell",
+			"label": "Run C++",
+			"command": "${fileDirname}/${fileBasenameNoExtension}.exe",
+			"group": {
+				"kind": "test",
+				"isDefault": true
+			}
+		}
+	]
+}
+```
+
 ![image](https://user-images.githubusercontent.com/28949235/116834498-608d2000-abf9-11eb-876f-20e29ca914d0.png)
 
 추가해놓은 단축키 순서대로  
