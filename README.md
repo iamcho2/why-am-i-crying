@@ -2,7 +2,7 @@
 
 # why am i crying...🥲
 
-> 알고리즘이.. 너무.. 재밌어서..!^_____________________________________ㅠ
+> 알고리즘이.. 너무.. 재밌어서..!^_____ㅠ
 
 2021.04.26 ~
 
@@ -23,6 +23,7 @@
 
 ### BOJ
 [#2309 ](https://github.com/iamcho2/why-am-i-crying/blob/main/solutions/BOJ-2309/BOJ-2309.md)
+[#1759 ](https://github.com/iamcho2/why-am-i-crying/blob/main/solutions/BOJ-1759/BOJ-1759.md)
 
 
 
