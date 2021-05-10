@@ -13,7 +13,8 @@
 ### SOPT 내 알고리즘 스터디 SOPTAC (C++)
 
 [C++ STL](https://github.com/iamcho2/why-am-i-crying/blob/main/contents/SOPTAC/C%2B%2BSTL.md)\
-[Bruteforce, Backtracking](https://github.com/iamcho2/why-am-i-crying/blob/main/contents/SOPTAC/Bruteforce-Backtracking.md) 
+[Bruteforce, Backtracking](https://github.com/iamcho2/why-am-i-crying/blob/main/contents/SOPTAC/Bruteforce-Backtracking.md)\
+[Greedy](https://github.com/iamcho2/why-am-i-crying/blob/main/contents/SOPTAC/Greedy.md)
 
 ### Swift
 
@@ -24,8 +25,12 @@
 ### BOJ
 [#1182 ](https://github.com/iamcho2/why-am-i-crying/tree/main/solutions/BOJ-1182/BOJ-1182.md)
 [#1759 ](https://github.com/iamcho2/why-am-i-crying/blob/main/solutions/BOJ-1759/BOJ-1759.md)
+[#1931 ](https://github.com/iamcho2/why-am-i-crying/blob/main/solutions/BOJ-1931/BOJ-1931.md)
+[#1946 ](https://github.com/iamcho2/why-am-i-crying/blob/main/solutions/BOJ-1931/BOJ-1946.md)
 [#2309 ](https://github.com/iamcho2/why-am-i-crying/blob/main/solutions/BOJ-2309/BOJ-2309.md)
+[#5585 ](https://github.com/iamcho2/why-am-i-crying/blob/main/solutions/BOJ-2309/BOJ-5585.md)
 [#7568 ](https://github.com/iamcho2/why-am-i-crying/blob/main/solutions/BOJ-7568/BOJ-7568.md)
+[#11047 ](https://github.com/iamcho2/why-am-i-crying/tree/main/solutions/BOJ-1182/BOJ-11047.md)
 
 
 
