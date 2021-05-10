@@ -26,11 +26,11 @@
 [#1182 ](https://github.com/iamcho2/why-am-i-crying/tree/main/solutions/BOJ-1182/BOJ-1182.md)
 [#1759 ](https://github.com/iamcho2/why-am-i-crying/blob/main/solutions/BOJ-1759/BOJ-1759.md)
 [#1931 ](https://github.com/iamcho2/why-am-i-crying/blob/main/solutions/BOJ-1931/BOJ-1931.md)
-[#1946 ](https://github.com/iamcho2/why-am-i-crying/blob/main/solutions/BOJ-1931/BOJ-1946.md)
+[#1946 ](https://github.com/iamcho2/why-am-i-crying/blob/main/solutions/BOJ-1946/BOJ-1946.md)
 [#2309 ](https://github.com/iamcho2/why-am-i-crying/blob/main/solutions/BOJ-2309/BOJ-2309.md)
-[#5585 ](https://github.com/iamcho2/why-am-i-crying/blob/main/solutions/BOJ-2309/BOJ-5585.md)
+[#5585 ](https://github.com/iamcho2/why-am-i-crying/blob/main/solutions/BOJ-5585/BOJ-5585.md)
 [#7568 ](https://github.com/iamcho2/why-am-i-crying/blob/main/solutions/BOJ-7568/BOJ-7568.md)
-[#11047 ](https://github.com/iamcho2/why-am-i-crying/tree/main/solutions/BOJ-1182/BOJ-11047.md)
+[#11047 ](https://github.com/iamcho2/why-am-i-crying/tree/main/solutions/BOJ-11047/BOJ-11047.md)
 
 
 
