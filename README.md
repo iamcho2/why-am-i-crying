@@ -14,7 +14,7 @@
 
 [C++ STL](https://github.com/iamcho2/why-am-i-crying/blob/main/contents/SOPTAC/C%2B%2BSTL.md)\
 [Bruteforce, Backtracking](https://github.com/iamcho2/why-am-i-crying/blob/main/contents/SOPTAC/Bruteforce-Backtracking.md)\
-[Greedy](https://github.com/iamcho2/why-am-i-crying/blob/main/contents/SOPTAC/Greedy.md)\ 
+[Greedy](https://github.com/iamcho2/why-am-i-crying/blob/main/contents/SOPTAC/Greedy.md)\
 [Dynamic Programming (DP)](https://github.com/iamcho2/why-am-i-crying/blob/main/contents/SOPTAC/Dynamic-Programming.md)\
 [Binary Search](https://github.com/iamcho2/why-am-i-crying/blob/main/contents/SOPTAC/Binary-Search.md)\
 [DFS, BFS](https://github.com/iamcho2/why-am-i-crying/blob/main/contents/SOPTAC/DFS-BFS.md)\
