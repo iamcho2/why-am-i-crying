@@ -19,7 +19,7 @@
 [Binary Search](https://github.com/iamcho2/why-am-i-crying/blob/main/contents/SOPTAC/Binary-Search.md)\
 [DFS, BFS](https://github.com/iamcho2/why-am-i-crying/blob/main/contents/SOPTAC/DFS-BFS.md)\
 
-### Swift
+### Swift 
 
 
 
