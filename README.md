@@ -24,19 +24,52 @@
 
 
 
-## 🗝 문제풀이
+## 🗝 문제풀이 - C++
 
-### BOJ
-[#1182 ](https://github.com/iamcho2/why-am-i-crying/tree/main/solutions/BOJ-1182/BOJ-1182.md)
-[#1759 ](https://github.com/iamcho2/why-am-i-crying/blob/main/solutions/BOJ-1759/BOJ-1759.md)
-[#1931 ](https://github.com/iamcho2/why-am-i-crying/blob/main/solutions/BOJ-1931/BOJ-1931.md)
-[#1946 ](https://github.com/iamcho2/why-am-i-crying/blob/main/solutions/BOJ-1946/BOJ-1946.md)
-[#2309 ](https://github.com/iamcho2/why-am-i-crying/blob/main/solutions/BOJ-2309/BOJ-2309.md)
-[#5585 ](https://github.com/iamcho2/why-am-i-crying/blob/main/solutions/BOJ-5585/BOJ-5585.md)
-[#7568 ](https://github.com/iamcho2/why-am-i-crying/blob/main/solutions/BOJ-7568/BOJ-7568.md)
-[#11047 ](https://github.com/iamcho2/why-am-i-crying/tree/main/solutions/BOJ-11047/BOJ-11047.md)
+<h4>BOJ</h4>
+<a href="https://iamcho2.github.io/2021/05/04/BOJ-1182">#1182 </a>
+<a href="https://iamcho2.github.io/2021/05/03/BOJ-1759">#1759 </a>
+<a href="https://iamcho2.github.io/2021/05/09/BOJ-1931">#1931 </a>
+<a href="https://iamcho2.github.io/2021/05/09/BOJ-1946">#1946 </a>
+<a href="https://iamcho2.github.io/2021/05/03/BOJ-2309">#2309 </a>
+<a href="https://iamcho2.github.io/2021/05/08/BOJ-5585">#5585 </a>
+<a href="https://iamcho2.github.io/2021/05/03/BOJ-7568">#7568 </a>
+<a href="https://iamcho2.github.io/2021/05/10/BOJ-11047">#11047 </a>
 
-
-
-### PRG
+<h4>Programmers</h4>
+<a href="https://iamcho2.github.io/2021/06/15/PRG-1845">#1845 </a>
+<a href="https://iamcho2.github.io/2021/06/23/PRG-12903">#12903 </a>
+<a href="https://iamcho2.github.io/2021/06/21/PRG-12906">#12906 </a>
+<a href="https://iamcho2.github.io/2021/06/21/PRG-12910">#12910 </a>
+<a href="https://iamcho2.github.io/2021/06/21/PRG-12912">#12912 </a>
+<a href="https://iamcho2.github.io/2021/06/21/PRG-12915">#12915 </a>
+<a href="https://iamcho2.github.io/2021/06/23/PRG-12916">#12916 </a>
+<a href="https://iamcho2.github.io/2021/06/23/PRG-12917">#12917 </a>
+<a href="https://iamcho2.github.io/2021/06/23/PRG-12918">#12918 </a>
+<a href="https://iamcho2.github.io/2021/06/23/PRG-12919">#12919 </a>
+<a href="https://iamcho2.github.io/2021/06/23/PRG-12921">#12921 </a>
+<a href="https://iamcho2.github.io/2021/06/23/PRG-12922">#12922 </a>
+<a href="https://iamcho2.github.io/2021/06/23/PRG-12925">#12925 </a>
+<a href="https://iamcho2.github.io/2021/06/23/PRG-12926">#12926 </a>
+<a href="https://iamcho2.github.io/2021/06/23/PRG-12928">#12928 </a>
+<a href="https://iamcho2.github.io/2021/06/23/PRG-12930">#12930 </a>
+<a href="https://iamcho2.github.io/2021/06/23/PRG-12931">#12931 </a>
+<a href="https://iamcho2.github.io/2021/06/21/PRG-12932">#12932 </a>
+<a href="https://iamcho2.github.io/2021/06/21/PRG-12933">#12933 </a>
+<a href="https://iamcho2.github.io/2021/06/21/PRG-12934">#12934 </a>
+<a href="https://iamcho2.github.io/2021/06/21/PRG-12935">#12935 </a>
+<a href="https://iamcho2.github.io/2021/06/21/PRG-12937">#12937 </a>
+<a href="https://iamcho2.github.io/2021/06/21/PRG-12940">#12940 </a>
+<a href="https://iamcho2.github.io/2021/06/21/PRG-12943">#12943 </a>
+<a href="https://iamcho2.github.io/2021/06/21/PRG-12944">#12944 </a>
+<a href="https://iamcho2.github.io/2021/06/19/PRG-12947">#12947 </a>
+<a href="https://iamcho2.github.io/2021/06/19/PRG-12948">#12948 </a>
+<a href="https://iamcho2.github.io/2021/06/16/PRG-12950">#12950 </a>
+<a href="https://iamcho2.github.io/2021/06/16/PRG-12954">#12954 </a>
+<a href="https://iamcho2.github.io/2021/06/16/PRG-12969">#12969 </a>
+<a href="https://iamcho2.github.io/2021/06/23/PRG-17682">#17682 </a>
+<a href="https://iamcho2.github.io/2021/06/23/PRG-42576">#42576 </a>
+<a href="https://iamcho2.github.io/2021/06/23/PRG-42748">#42748 </a>
+<a href="https://iamcho2.github.io/2021/06/19/PRG-42862">#42862 </a>
+<a href="https://iamcho2.github.io/2021/06/15/PRG-70128">#70128 </a>
 
