@@ -6,10 +6,6 @@
 	objectVersion = 50;
 	objects = {
 
-/* Begin PBXBuildFile section */
-		56F95B1326B1D7AC00004E2E /* BOJ-1008.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56F95B1226B1D7AC00004E2E /* BOJ-1008.swift */; };
-/* End PBXBuildFile section */
-
 /* Begin PBXCopyFilesBuildPhase section */
 		56F95B0D26B1D7AC00004E2E /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -25,6 +21,7 @@
 /* Begin PBXFileReference section */
 		56F95B0F26B1D7AC00004E2E /* DoNotCry */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = DoNotCry; sourceTree = BUILT_PRODUCTS_DIR; };
 		56F95B1226B1D7AC00004E2E /* BOJ-1008.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-1008.swift"; sourceTree = "<group>"; };
+		56F95B2526B4745200004E2E /* BOJ-1330.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-1330.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +71,7 @@
 			isa = PBXGroup;
 			children = (
 				56F95B1226B1D7AC00004E2E /* BOJ-1008.swift */,
+				56F95B2526B4745200004E2E /* BOJ-1330.swift */,
 			);
 			path = BOJ;
 			sourceTree = "<group>";
@@ -135,7 +133,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				56F95B1326B1D7AC00004E2E /* BOJ-1008.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
