@@ -6,6 +6,10 @@
 	objectVersion = 50;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		56F95B3726B5C91A00004E2E /* BOJ-10818.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56F95B3626B5C91A00004E2E /* BOJ-10818.swift */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXCopyFilesBuildPhase section */
 		56F95B0D26B1D7AC00004E2E /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -27,6 +31,7 @@
 		56F95B3126B5C3DB00004E2E /* BOJ-2920.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-2920.swift"; sourceTree = "<group>"; };
 		56F95B3326B5C5E100004E2E /* DoNotCry-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "DoNotCry-Bridging-Header.h"; sourceTree = "<group>"; };
 		56F95B3426B5C5E100004E2E /* BOJ-8958.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-8958.swift"; sourceTree = "<group>"; };
+		56F95B3626B5C91A00004E2E /* BOJ-10818.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-10818.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,6 +81,7 @@
 		56F95B2426B46E9000004E2E /* BOJ */ = {
 			isa = PBXGroup;
 			children = (
+				56F95B3626B5C91A00004E2E /* BOJ-10818.swift */,
 				56F95B3426B5C5E100004E2E /* BOJ-8958.swift */,
 				56F95B1226B1D7AC00004E2E /* BOJ-1008.swift */,
 				56F95B2526B4745200004E2E /* BOJ-1330.swift */,
@@ -144,6 +150,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				56F95B3726B5C91A00004E2E /* BOJ-10818.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
