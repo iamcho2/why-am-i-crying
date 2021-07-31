@@ -24,6 +24,7 @@
 		56F95B2526B4745200004E2E /* BOJ-1330.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-1330.swift"; sourceTree = "<group>"; };
 		56F95B2726B5B21F00004E2E /* BOJ-2562.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-2562.swift"; sourceTree = "<group>"; };
 		56F95B2D26B5BFC500004E2E /* BOJ-2675.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-2675.swift"; sourceTree = "<group>"; };
+		56F95B3126B5C3DB00004E2E /* BOJ-2920.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-2920.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,6 +77,7 @@
 				56F95B2526B4745200004E2E /* BOJ-1330.swift */,
 				56F95B2726B5B21F00004E2E /* BOJ-2562.swift */,
 				56F95B2D26B5BFC500004E2E /* BOJ-2675.swift */,
+				56F95B3126B5C3DB00004E2E /* BOJ-2920.swift */,
 			);
 			path = BOJ;
 			sourceTree = "<group>";
