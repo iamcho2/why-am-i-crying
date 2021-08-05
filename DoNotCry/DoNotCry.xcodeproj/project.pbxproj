@@ -6,6 +6,10 @@
 	objectVersion = 50;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		56FFA17A26BC380700EE59A4 /* PRG-72410.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56FFA17926BC380700EE59A4 /* PRG-72410.swift */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXCopyFilesBuildPhase section */
 		56F95B0D26B1D7AC00004E2E /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -31,6 +35,7 @@
 		56F95B3826B5CBAA00004E2E /* BOJ-10952.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-10952.swift"; sourceTree = "<group>"; };
 		56F95B3A26B5CCD500004E2E /* BOJ-11654.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-11654.swift"; sourceTree = "<group>"; };
 		56F95B3C26B5CEB000004E2E /* BOJ-11720.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-11720.swift"; sourceTree = "<group>"; };
+		56FFA17926BC380700EE59A4 /* PRG-72410.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "PRG-72410.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,6 +78,7 @@
 		56F95B2326B46E8C00004E2E /* PRG */ = {
 			isa = PBXGroup;
 			children = (
+				56FFA17926BC380700EE59A4 /* PRG-72410.swift */,
 			);
 			path = PRG;
 			sourceTree = "<group>";
@@ -152,6 +158,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				56FFA17A26BC380700EE59A4 /* PRG-72410.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
