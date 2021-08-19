@@ -6,6 +6,10 @@
 	objectVersion = 50;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		569146FB26CE58BB00C93A60 /* PRG-12926.swift in Sources */ = {isa = PBXBuildFile; fileRef = 569146FA26CE58BB00C93A60 /* PRG-12926.swift */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXCopyFilesBuildPhase section */
 		56F95B0D26B1D7AC00004E2E /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -20,6 +24,7 @@
 
 /* Begin PBXFileReference section */
 		569146F826C925DB00C93A60 /* PRG-12921.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "PRG-12921.swift"; sourceTree = "<group>"; };
+		569146FA26CE58BB00C93A60 /* PRG-12926.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "PRG-12926.swift"; sourceTree = "<group>"; };
 		56F95B0F26B1D7AC00004E2E /* DoNotCry */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = DoNotCry; sourceTree = BUILT_PRODUCTS_DIR; };
 		56F95B1226B1D7AC00004E2E /* BOJ-1008.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-1008.swift"; sourceTree = "<group>"; };
 		56F95B2526B4745200004E2E /* BOJ-1330.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-1330.swift"; sourceTree = "<group>"; };
@@ -76,6 +81,7 @@
 		56F95B2326B46E8C00004E2E /* PRG */ = {
 			isa = PBXGroup;
 			children = (
+				569146FA26CE58BB00C93A60 /* PRG-12926.swift */,
 				56FA42E126C26E4100B8F862 /* PRG-12950.swift */,
 				569146F826C925DB00C93A60 /* PRG-12921.swift */,
 				56FFA17926BC380700EE59A4 /* PRG-72410.swift */,
@@ -158,6 +164,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				569146FB26CE58BB00C93A60 /* PRG-12926.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
