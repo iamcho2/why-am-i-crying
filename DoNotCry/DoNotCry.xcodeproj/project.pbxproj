@@ -6,6 +6,10 @@
 	objectVersion = 50;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		56B7AA6B26D7E96000B5B17A /* BOJ-14888.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56B7AA6A26D7E96000B5B17A /* BOJ-14888.swift */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXCopyFilesBuildPhase section */
 		56F95B0D26B1D7AC00004E2E /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -24,6 +28,7 @@
 		569146FA26CE58BB00C93A60 /* PRG-12926.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "PRG-12926.swift"; sourceTree = "<group>"; };
 		569B1B3F26D77D650099A0AF /* PRG-12982.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "PRG-12982.swift"; sourceTree = "<group>"; };
 		569B1B4126D788080099A0AF /* PRG-77884.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "PRG-77884.swift"; sourceTree = "<group>"; };
+		56B7AA6A26D7E96000B5B17A /* BOJ-14888.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-14888.swift"; sourceTree = "<group>"; };
 		56F95B0F26B1D7AC00004E2E /* DoNotCry */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = DoNotCry; sourceTree = BUILT_PRODUCTS_DIR; };
 		56F95B1226B1D7AC00004E2E /* BOJ-1008.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-1008.swift"; sourceTree = "<group>"; };
 		56F95B2526B4745200004E2E /* BOJ-1330.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-1330.swift"; sourceTree = "<group>"; };
@@ -94,6 +99,7 @@
 		56F95B2426B46E9000004E2E /* BOJ */ = {
 			isa = PBXGroup;
 			children = (
+				56B7AA6A26D7E96000B5B17A /* BOJ-14888.swift */,
 				56F95B3C26B5CEB000004E2E /* BOJ-11720.swift */,
 				56F95B3A26B5CCD500004E2E /* BOJ-11654.swift */,
 				56F95B3826B5CBAA00004E2E /* BOJ-10952.swift */,
@@ -166,6 +172,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				56B7AA6B26D7E96000B5B17A /* BOJ-14888.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
