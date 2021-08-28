@@ -25,6 +25,7 @@
 		569B1B3F26D77D650099A0AF /* PRG-12982.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "PRG-12982.swift"; sourceTree = "<group>"; };
 		569B1B4126D788080099A0AF /* PRG-77884.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "PRG-77884.swift"; sourceTree = "<group>"; };
 		569CD67126D91F570028E5CC /* BOJ-2504.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-2504.swift"; sourceTree = "<group>"; };
+		569CD67326DA83200028E5CC /* BOJ-14719.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-14719.swift"; sourceTree = "<group>"; };
 		56B7AA6A26D7E96000B5B17A /* BOJ-14888.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-14888.swift"; sourceTree = "<group>"; };
 		56F95B0F26B1D7AC00004E2E /* DoNotCry */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = DoNotCry; sourceTree = BUILT_PRODUCTS_DIR; };
 		56F95B1226B1D7AC00004E2E /* BOJ-1008.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-1008.swift"; sourceTree = "<group>"; };
@@ -57,7 +58,6 @@
 			isa = PBXGroup;
 			children = (
 				56F95B1126B1D7AC00004E2E /* DoNotCry */,
-				56F95B1026B1D7AC00004E2E /* Products */,
 			);
 			sourceTree = "<group>";
 		};
@@ -67,6 +67,7 @@
 				56F95B0F26B1D7AC00004E2E /* DoNotCry */,
 			);
 			name = Products;
+			path = ..;
 			sourceTree = "<group>";
 		};
 		56F95B1126B1D7AC00004E2E /* DoNotCry */ = {
@@ -75,6 +76,7 @@
 				56F95B3326B5C5E100004E2E /* DoNotCry-Bridging-Header.h */,
 				56F95B2426B46E9000004E2E /* BOJ */,
 				56F95B2326B46E8C00004E2E /* PRG */,
+				56F95B1026B1D7AC00004E2E /* Products */,
 			);
 			path = DoNotCry;
 			sourceTree = "<group>";
@@ -108,6 +110,7 @@
 				56F95B2D26B5BFC500004E2E /* BOJ-2675.swift */,
 				56F95B3126B5C3DB00004E2E /* BOJ-2920.swift */,
 				569CD67126D91F570028E5CC /* BOJ-2504.swift */,
+				569CD67326DA83200028E5CC /* BOJ-14719.swift */,
 			);
 			path = BOJ;
 			sourceTree = "<group>";
