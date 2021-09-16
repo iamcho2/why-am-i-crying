@@ -20,6 +20,7 @@
 
 /* Begin PBXFileReference section */
 		563A275D26D4D3BE0058B8F1 /* PRG-17682.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "PRG-17682.swift"; sourceTree = "<group>"; };
+		563AEDB726EFB4C600959B63 /* BOJ-2606.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-2606.swift"; sourceTree = "<group>"; };
 		563AEDB926EFB8AC00959B63 /* BOJ-1246.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-1246.swift"; sourceTree = "<group>"; };
 		5658FC6F26E39EE80067C04B /* BOJ-15652.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-15652.swift"; sourceTree = "<group>"; };
 		5658FC7126E3AEC00067C04B /* BOJ-9663.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-9663.swift"; sourceTree = "<group>"; };
@@ -109,6 +110,7 @@
 			isa = PBXGroup;
 			children = (
 				563AEDB926EFB8AC00959B63 /* BOJ-1246.swift */,
+				563AEDB726EFB4C600959B63 /* BOJ-2606.swift */,
 				567EBC4226ED0AF900F9E982 /* BOJ-14889.swift */,
 				5699FF3926E9385F008B5AA3 /* BOJ-14888.swift */,
 				5666B5CE26E762E0005D5A6E /* BOJ-1182.swift */,
