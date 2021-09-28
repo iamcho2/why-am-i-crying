@@ -15,8 +15,7 @@ if N < 3 {
     print(D[N] % 15746)
 } else {
     for i in 3...N {
-        D[i] = D[i-1] &+ D[i-2]
-        print(D[i])
+        D[i] = (D[i-1] &+ D[i-2]) % 15746
     }
-    print(D[N] % 15746)
+    print(D[N])
 }
