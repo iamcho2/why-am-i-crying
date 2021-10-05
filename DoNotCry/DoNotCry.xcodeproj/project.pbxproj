@@ -19,6 +19,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		560BAD5F270C3F6400FF75A2 /* BOJ-4179-2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-4179-2.swift"; sourceTree = "<group>"; };
 		561D778026F3AB620028DBCA /* BOJ-1003.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-1003.swift"; sourceTree = "<group>"; };
 		562EDF7226F4E749002F7B2B /* BOJ-1463.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-1463.swift"; sourceTree = "<group>"; };
 		562EDF7526F4EBA0002F7B2B /* BOJ-9095.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-9095.swift"; sourceTree = "<group>"; };
@@ -40,6 +41,7 @@
 		565F13DF270B511A004243CF /* BOJ-1926-head-pointer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-1926-head-pointer.swift"; sourceTree = "<group>"; };
 		565F13E1270C1E9B004243CF /* BOJ-2178.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-2178.swift"; sourceTree = "<group>"; };
 		565F13E3270C249A004243CF /* BOJ-7576.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-7576.swift"; sourceTree = "<group>"; };
+		565F13E5270C2DC3004243CF /* BOJ-4179-1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-4179-1.swift"; sourceTree = "<group>"; };
 		5666B5CE26E762E0005D5A6E /* BOJ-1182.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "BOJ-1182.swift"; sourceTree = "<group>"; };
 		567EBC4226ED0AF900F9E982 /* BOJ-14889.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-14889.swift"; sourceTree = "<group>"; };
 		569146F826C925DB00C93A60 /* PRG-12921.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "PRG-12921.swift"; sourceTree = "<group>"; };
@@ -126,6 +128,8 @@
 		56F95B2426B46E9000004E2E /* BOJ */ = {
 			isa = PBXGroup;
 			children = (
+				565F13E5270C2DC3004243CF /* BOJ-4179-1.swift */,
+				560BAD5F270C3F6400FF75A2 /* BOJ-4179-2.swift */,
 				565F13E3270C249A004243CF /* BOJ-7576.swift */,
 				565F13E1270C1E9B004243CF /* BOJ-2178.swift */,
 				565F13DF270B511A004243CF /* BOJ-1926-head-pointer.swift */,
