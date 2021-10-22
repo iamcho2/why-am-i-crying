@@ -56,6 +56,7 @@
 		569BB5FB26F76F2D001B4ED2 /* BOJ-2579.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-2579.swift"; sourceTree = "<group>"; };
 		569CD67126D91F570028E5CC /* BOJ-2504.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-2504.swift"; sourceTree = "<group>"; };
 		569CD67326DA83200028E5CC /* BOJ-14719.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-14719.swift"; sourceTree = "<group>"; };
+		56A375CA2722D20900B47B6D /* BOJ-14467.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-14467.swift"; sourceTree = "<group>"; };
 		56A375CE2722F7AF00B47B6D /* BOJ-10844.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-10844.swift"; sourceTree = "<group>"; };
 		56A9210D26DF56BF00C154B5 /* BOJ-15649.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-15649.swift"; sourceTree = "<group>"; };
 		56A9211326E129FC00C154B5 /* BOJ-15649-2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-15649-2.swift"; sourceTree = "<group>"; };
@@ -134,6 +135,7 @@
 			isa = PBXGroup;
 			children = (
 				56A375CE2722F7AF00B47B6D /* BOJ-10844.swift */,
+				56A375CA2722D20900B47B6D /* BOJ-14467.swift */,
 				5604DA5427102560002B204C /* BOJ-5014.swift */,
 				5604DA52270EDF98002B204C /* BOJ-10026.swift */,
 				560BAD63270DE32000FF75A2 /* BOJ-7562.swift */,
